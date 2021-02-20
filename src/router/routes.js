@@ -9,7 +9,7 @@ const Notifications = () => import(/* webpackChunkName: "common" */"@/pages/Noti
 const Icons = () => import(/* webpackChunkName: "common" */ "@/pages/Icons.vue");
 const Maps = () => import(/* webpackChunkName: "common" */ "@/pages/Maps.vue");
 const Typography = () => import(/* webpackChunkName: "common" */ "@/pages/Typography.vue");
-const TableList = () => import(/* webpackChunkName: "common" */ "@/pages/TableList.vue");
+const TableList = () => import(/* webpackChunkName: "common" */ "@/pages/SaveManager.vue");
 
 const routes = [
   {
